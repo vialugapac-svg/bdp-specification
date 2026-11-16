@@ -2,6 +2,8 @@
 
 Status: diretrizes aprovadas pelo responsável de produto; implementação e homologação pendentes.
 
+Especificação conceitual complementar: [Ontologia de domínio do BT Model e do BDP — v0.1](./ONTOLOGIA-DOMINIO-BT-MODEL-BDP-v0.1.md). A ontologia explicita conceitos, relações e restrições; não declara implementação ou homologação.
+
 ## Núcleo
 BDP é núcleo de discernimento organizacional independente de LLMs, agentes, RAG, MCP e Skills. Esses recursos são adaptadores ou executores auxiliares; regras, evidências, governança e memória de domínio permanecem próprias.
 
